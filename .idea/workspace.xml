@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc945638-c48a-4723-82ec-b3d5571e2319" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +34,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.jetbrains.php.phpunit.codeGeneration.PhpNewTestDialog.defaultLibrary" value="PHPUnit" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/策略模式" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/StrategyMode" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -48,6 +46,7 @@
       <recent name="E:\设计模式\策略模式\Weapons" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\设计模式\StrategyMode" />
       <recent name="E:\设计模式\策略模式" />
       <recent name="E:\设计模式\策略模式\Weapons" />
     </key>
@@ -63,7 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588634651213</updated>
       <workItem from="1588634653046" duration="2385000" />
-      <workItem from="1588637075296" duration="3374000" />
+      <workItem from="1588637075296" duration="3785000" />
     </task>
     <servers />
   </component>
