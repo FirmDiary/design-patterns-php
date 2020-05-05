@@ -1,0 +1,31 @@
+<?php
+/**
+ * @author: Azal.
+ * @date: 2020/5/5
+ * @time: 9:54
+ */
+
+
+namespace ObserverMode;
+
+class ClientH5 implements Observer, Display
+{
+    const SIGN = 'H5端';
+
+    private $mainColor;
+    private $infoColor;
+
+    public function update($mainColor, $infoColor)
+    {
+        $this->mainColor = $mainColor;
+        $this->infoColor = $infoColor;
+        $this->display();
+    }
+
+
+    public function display()
+    {
+        echo self::SIGN . '主题已经更新！主色:' . $this->mainColor . '辅色:' . $this->infoColor.PHP_EOL;
+    }
+
+}

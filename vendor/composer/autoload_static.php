@@ -9,19 +9,22 @@ class ComposerStaticInit9c5b16615fcf2d7b9f1e13c929f963e7
     public static $prefixLengthsPsr4 = array (
         'S' => 
         array (
-            'StrategyMode\\FistFight\\' => 23,
             'StrategyMode\\' => 13,
+        ),
+        'O' => 
+        array (
+            'ObserverMode\\' => 13,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'StrategyMode\\FistFight\\' => 
-        array (
-            0 => __DIR__ . '/../..' . '/StrategyMode/FistFight',
-        ),
         'StrategyMode\\' => 
         array (
             0 => __DIR__ . '/../..' . '/StrategyMode',
+        ),
+        'ObserverMode\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/ObserverMode',
         ),
     );
 

@@ -6,6 +6,6 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'StrategyMode\\FistFight\\' => array($baseDir . '/StrategyMode/FistFight'),
     'StrategyMode\\' => array($baseDir . '/StrategyMode'),
+    'ObserverMode\\' => array($baseDir . '/ObserverMode'),
 );
