@@ -1,0 +1,10 @@
+{
+    "name": "azal/design",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "StrategyMode\\": "StrategyMode/",
+            "StrategyMode\\FistFight\\": "StrategyMode/FistFight/"
+        }
+    }
+}
