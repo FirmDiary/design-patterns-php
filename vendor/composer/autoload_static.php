@@ -15,6 +15,10 @@ class ComposerStaticInit9c5b16615fcf2d7b9f1e13c929f963e7
         array (
             'ObserverMode\\' => 13,
         ),
+        'D' => 
+        array (
+            'Decorator\\' => 10,
+        ),
     );
 
     public static $prefixDirsPsr4 = array (
@@ -25,6 +29,10 @@ class ComposerStaticInit9c5b16615fcf2d7b9f1e13c929f963e7
         'ObserverMode\\' => 
         array (
             0 => __DIR__ . '/../..' . '/ObserverMode',
+        ),
+        'Decorator\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/Decorator',
         ),
     );
 

@@ -8,4 +8,5 @@ $baseDir = dirname($vendorDir);
 return array(
     'StrategyMode\\' => array($baseDir . '/StrategyMode'),
     'ObserverMode\\' => array($baseDir . '/ObserverMode'),
+    'Decorator\\' => array($baseDir . '/Decorator'),
 );
