@@ -9,5 +9,6 @@ return array(
     'StrategyMode\\' => array($baseDir . '/StrategyMode'),
     'SimpleFactory\\' => array($baseDir . '/SimpleFactory'),
     'ObserverMode\\' => array($baseDir . '/ObserverMode'),
+    'Factory\\' => array($baseDir . '/Factory'),
     'Decorator\\' => array($baseDir . '/Decorator'),
 );

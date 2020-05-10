@@ -8,7 +8,8 @@
             "StrategyMode\\": "StrategyMode/",
             "ObserverMode\\": "ObserverMode/",
             "Decorator\\": "Decorator/",
-            "SimpleFactory\\": "SimpleFactory/"
+            "SimpleFactory\\": "SimpleFactory/",
+            "Factory\\": "Factory/"
         }
     }
 }

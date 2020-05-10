@@ -16,6 +16,10 @@ class ComposerStaticInit9c5b16615fcf2d7b9f1e13c929f963e7
         array (
             'ObserverMode\\' => 13,
         ),
+        'F' => 
+        array (
+            'Factory\\' => 8,
+        ),
         'D' => 
         array (
             'Decorator\\' => 10,
@@ -34,6 +38,10 @@ class ComposerStaticInit9c5b16615fcf2d7b9f1e13c929f963e7
         'ObserverMode\\' => 
         array (
             0 => __DIR__ . '/../..' . '/ObserverMode',
+        ),
+        'Factory\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/Factory',
         ),
         'Decorator\\' => 
         array (
