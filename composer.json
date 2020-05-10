@@ -9,7 +9,8 @@
             "ObserverMode\\": "ObserverMode/",
             "Decorator\\": "Decorator/",
             "SimpleFactory\\": "SimpleFactory/",
-            "Factory\\": "Factory/"
+            "Factory\\": "Factory/",
+            "AbstractFactory\\": "AbstractFactory/"
         }
     }
 }

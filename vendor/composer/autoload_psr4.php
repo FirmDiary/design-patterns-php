@@ -11,4 +11,5 @@ return array(
     'ObserverMode\\' => array($baseDir . '/ObserverMode'),
     'Factory\\' => array($baseDir . '/Factory'),
     'Decorator\\' => array($baseDir . '/Decorator'),
+    'AbstractFactory\\' => array($baseDir . '/AbstractFactory'),
 );

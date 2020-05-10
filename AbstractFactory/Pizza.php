@@ -5,12 +5,23 @@
  * @time: 17:03
  */
 
-namespace Factory;
+namespace AbstractFactory;
 
 
 abstract class Pizza
 {
     protected $name;
+
+    /**
+     * 制作原料
+     * @return mixed
+     */
+    public abstract function prepare();
+
+    public function setName($name)
+    {
+        $this->name = $name;
+    }
 
     public function create()
     {
