@@ -12,8 +12,5 @@ abstract class Pizza
 {
     protected $name;
 
-    public function create()
-    {
-        echo $this->name.'制作完成,已经送上!';
-    }
+    public abstract function create();
 }
