@@ -8,6 +8,7 @@
 1.  [策略模式](StrategyMode/)
 2.  [观察者模式](ObserverMode/)
 3.  [装饰者模式](Decorator/)
+4.  [简单工厂](SimpleFactory/)
 
 
 
