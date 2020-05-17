@@ -10,7 +10,8 @@
             "Decorator\\": "Decorator/",
             "SimpleFactory\\": "SimpleFactory/",
             "Factory\\": "Factory/",
-            "AbstractFactory\\": "AbstractFactory/"
+            "AbstractFactory\\": "AbstractFactory/",
+            "Singleton\\": "Singleton/"
         }
     }
 }

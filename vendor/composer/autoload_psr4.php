@@ -7,6 +7,7 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'StrategyMode\\' => array($baseDir . '/StrategyMode'),
+    'Singleton\\' => array($baseDir . '/Singleton'),
     'SimpleFactory\\' => array($baseDir . '/SimpleFactory'),
     'ObserverMode\\' => array($baseDir . '/ObserverMode'),
     'Factory\\' => array($baseDir . '/Factory'),

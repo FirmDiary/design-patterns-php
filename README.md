@@ -11,6 +11,7 @@
 4.  [简单工厂](SimpleFactory/)
 5.  [工厂模式](Factory/)
 5.  [抽象工厂模式](AbstractFactory/)
+6.  [单件模式](Singleton/)
 
 
 

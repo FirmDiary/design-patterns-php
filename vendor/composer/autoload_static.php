@@ -10,6 +10,7 @@ class ComposerStaticInit9c5b16615fcf2d7b9f1e13c929f963e7
         'S' => 
         array (
             'StrategyMode\\' => 13,
+            'Singleton\\' => 10,
             'SimpleFactory\\' => 14,
         ),
         'O' => 
@@ -34,6 +35,10 @@ class ComposerStaticInit9c5b16615fcf2d7b9f1e13c929f963e7
         'StrategyMode\\' => 
         array (
             0 => __DIR__ . '/../..' . '/StrategyMode',
+        ),
+        'Singleton\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/Singleton',
         ),
         'SimpleFactory\\' => 
         array (
