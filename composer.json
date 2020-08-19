@@ -11,7 +11,8 @@
             "SimpleFactory\\": "SimpleFactory/",
             "Factory\\": "Factory/",
             "AbstractFactory\\": "AbstractFactory/",
-            "Singleton\\": "Singleton/"
+            "Singleton\\": "Singleton/",
+            "Command\\": "Command/"
         }
     }
 }

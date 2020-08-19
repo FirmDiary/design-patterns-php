@@ -25,6 +25,10 @@ class ComposerStaticInit9c5b16615fcf2d7b9f1e13c929f963e7
         array (
             'Decorator\\' => 10,
         ),
+        'C' => 
+        array (
+            'Command\\' => 8,
+        ),
         'A' => 
         array (
             'AbstractFactory\\' => 16,
@@ -55,6 +59,10 @@ class ComposerStaticInit9c5b16615fcf2d7b9f1e13c929f963e7
         'Decorator\\' => 
         array (
             0 => __DIR__ . '/../..' . '/Decorator',
+        ),
+        'Command\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/Command',
         ),
         'AbstractFactory\\' => 
         array (
