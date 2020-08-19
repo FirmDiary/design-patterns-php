@@ -12,6 +12,7 @@
 5.  [工厂模式](Factory/)
 5.  [抽象工厂模式](AbstractFactory/)
 6.  [单件模式](Singleton/)
+7.  [命令模式](Command/)
 
 
 
