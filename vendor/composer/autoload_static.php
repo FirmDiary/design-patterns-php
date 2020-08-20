@@ -20,6 +20,7 @@ class ComposerStaticInit9c5b16615fcf2d7b9f1e13c929f963e7
         'F' => 
         array (
             'Factory\\' => 8,
+            'Facade\\' => 7,
         ),
         'D' => 
         array (
@@ -31,6 +32,7 @@ class ComposerStaticInit9c5b16615fcf2d7b9f1e13c929f963e7
         ),
         'A' => 
         array (
+            'Adapter\\' => 8,
             'AbstractFactory\\' => 16,
         ),
     );
@@ -56,6 +58,10 @@ class ComposerStaticInit9c5b16615fcf2d7b9f1e13c929f963e7
         array (
             0 => __DIR__ . '/../..' . '/Factory',
         ),
+        'Facade\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/Facade',
+        ),
         'Decorator\\' => 
         array (
             0 => __DIR__ . '/../..' . '/Decorator',
@@ -63,6 +69,10 @@ class ComposerStaticInit9c5b16615fcf2d7b9f1e13c929f963e7
         'Command\\' => 
         array (
             0 => __DIR__ . '/../..' . '/Command',
+        ),
+        'Adapter\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/Adapter',
         ),
         'AbstractFactory\\' => 
         array (

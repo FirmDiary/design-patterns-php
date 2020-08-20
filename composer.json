@@ -12,7 +12,9 @@
             "Factory\\": "Factory/",
             "AbstractFactory\\": "AbstractFactory/",
             "Singleton\\": "Singleton/",
-            "Command\\": "Command/"
+            "Command\\": "Command/",
+            "Adapter\\": "Adapter/",
+            "Facade\\": "Facade/"
         }
     }
 }

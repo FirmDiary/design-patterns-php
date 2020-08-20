@@ -11,7 +11,9 @@ return array(
     'SimpleFactory\\' => array($baseDir . '/SimpleFactory'),
     'ObserverMode\\' => array($baseDir . '/ObserverMode'),
     'Factory\\' => array($baseDir . '/Factory'),
+    'Facade\\' => array($baseDir . '/Facade'),
     'Decorator\\' => array($baseDir . '/Decorator'),
     'Command\\' => array($baseDir . '/Command'),
+    'Adapter\\' => array($baseDir . '/Adapter'),
     'AbstractFactory\\' => array($baseDir . '/AbstractFactory'),
 );
