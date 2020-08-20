@@ -5,7 +5,7 @@
  * @time: 7:39
  */
 
-namespace StrategyMode;
+namespace Strategy;
 
 /**
  * 女警角色

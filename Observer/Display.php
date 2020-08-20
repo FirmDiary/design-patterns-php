@@ -6,7 +6,7 @@
  */
 
 
-namespace ObserverMode;
+namespace Observer;
 
 interface Display
 {

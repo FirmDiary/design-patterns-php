@@ -5,8 +5,8 @@
     },
     "autoload": {
         "psr-4": {
-            "StrategyMode\\": "StrategyMode/",
-            "ObserverMode\\": "ObserverMode/",
+            "Strategy\\": "Strategy/",
+            "Observer\\": "Observer/",
             "Decorator\\": "Decorator/",
             "SimpleFactory\\": "SimpleFactory/",
             "Factory\\": "Factory/",

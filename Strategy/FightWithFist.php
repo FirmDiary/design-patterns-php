@@ -5,7 +5,7 @@
  * @time: 7:45
  */
 
-namespace StrategyMode;
+namespace Strategy;
 
 class FightWithFist implements Fistfight
 {

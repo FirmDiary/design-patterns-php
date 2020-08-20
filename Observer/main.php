@@ -5,7 +5,7 @@
  * @time: 9:57
  */
 
-namespace ObserverMode;
+namespace Observer;
 require '../vendor/autoload.php';
 
 $theme = new Theme();

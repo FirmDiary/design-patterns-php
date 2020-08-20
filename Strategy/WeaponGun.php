@@ -5,13 +5,13 @@
  * @time: 7:46
  */
 
-namespace StrategyMode;
+namespace Strategy;
 
-class WeaponKnife implements Weapons
+class WeaponGun implements Weapons
 {
     public function useWeapon()
     {
-        echo '使用了小刀，啾啾啾~';
+        echo '使用了巴雷特！嘣~';
     }
 
 }

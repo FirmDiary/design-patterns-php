@@ -6,10 +6,10 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'StrategyMode\\' => array($baseDir . '/StrategyMode'),
+    'Strategy\\' => array($baseDir . '/Strategy'),
     'Singleton\\' => array($baseDir . '/Singleton'),
     'SimpleFactory\\' => array($baseDir . '/SimpleFactory'),
-    'ObserverMode\\' => array($baseDir . '/ObserverMode'),
+    'Observer\\' => array($baseDir . '/Observer'),
     'Factory\\' => array($baseDir . '/Factory'),
     'Facade\\' => array($baseDir . '/Facade'),
     'Decorator\\' => array($baseDir . '/Decorator'),

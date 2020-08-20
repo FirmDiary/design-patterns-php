@@ -5,7 +5,7 @@
  * @time: 7:31
  */
 
-namespace StrategyMode;
+namespace Strategy;
 
 /**
  * 游戏角色

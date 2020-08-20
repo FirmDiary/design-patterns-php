@@ -5,7 +5,7 @@
  * @time: 7:53
  */
 
-namespace StrategyMode;
+namespace Strategy;
 require '../vendor/autoload.php';
 
 

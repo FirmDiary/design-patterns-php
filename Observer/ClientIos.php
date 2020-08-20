@@ -6,11 +6,11 @@
  */
 
 
-namespace ObserverMode;
+namespace Observer;
 
-class ClientH5 implements Observer, Display
+class ClientIos implements Observer, Display
 {
-    const SIGN = 'H5端';
+    const SIGN = 'IOS端';
 
     private $mainColor;
     private $infoColor;

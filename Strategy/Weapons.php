@@ -5,7 +5,7 @@
  * @time: 7:38
  */
 
-namespace StrategyMode;
+namespace Strategy;
 
 /**
  * 武器类型的角色

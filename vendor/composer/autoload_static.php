@@ -9,13 +9,13 @@ class ComposerStaticInit9c5b16615fcf2d7b9f1e13c929f963e7
     public static $prefixLengthsPsr4 = array (
         'S' => 
         array (
-            'StrategyMode\\' => 13,
+            'Strategy\\' => 9,
             'Singleton\\' => 10,
             'SimpleFactory\\' => 14,
         ),
         'O' => 
         array (
-            'ObserverMode\\' => 13,
+            'Observer\\' => 9,
         ),
         'F' => 
         array (
@@ -38,9 +38,9 @@ class ComposerStaticInit9c5b16615fcf2d7b9f1e13c929f963e7
     );
 
     public static $prefixDirsPsr4 = array (
-        'StrategyMode\\' => 
+        'Strategy\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/StrategyMode',
+            0 => __DIR__ . '/../..' . '/Strategy',
         ),
         'Singleton\\' => 
         array (
@@ -50,9 +50,9 @@ class ComposerStaticInit9c5b16615fcf2d7b9f1e13c929f963e7
         array (
             0 => __DIR__ . '/../..' . '/SimpleFactory',
         ),
-        'ObserverMode\\' => 
+        'Observer\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/ObserverMode',
+            0 => __DIR__ . '/../..' . '/Observer',
         ),
         'Factory\\' => 
         array (

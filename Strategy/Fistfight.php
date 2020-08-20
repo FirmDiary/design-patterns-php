@@ -5,7 +5,7 @@
  * @time: 7:37
  */
 
-namespace StrategyMode;
+namespace Strategy;
 
 /**
  * 格斗类型的角色
