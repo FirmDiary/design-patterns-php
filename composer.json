@@ -14,7 +14,8 @@
             "Singleton\\": "Singleton/",
             "Command\\": "Command/",
             "Adapter\\": "Adapter/",
-            "Facade\\": "Facade/"
+            "Facade\\": "Facade/",
+            "Template\\": "Template/"
         }
     }
 }
