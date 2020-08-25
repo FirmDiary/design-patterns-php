@@ -21,6 +21,10 @@ class ComposerStaticInit9c5b16615fcf2d7b9f1e13c929f963e7
         array (
             'Observer\\' => 9,
         ),
+        'I' => 
+        array (
+            'Iterator\\' => 9,
+        ),
         'F' => 
         array (
             'Factory\\' => 8,
@@ -61,6 +65,10 @@ class ComposerStaticInit9c5b16615fcf2d7b9f1e13c929f963e7
         'Observer\\' => 
         array (
             0 => __DIR__ . '/../..' . '/Observer',
+        ),
+        'Iterator\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/Iterator',
         ),
         'Factory\\' => 
         array (

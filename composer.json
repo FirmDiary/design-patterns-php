@@ -15,7 +15,8 @@
             "Command\\": "Command/",
             "Adapter\\": "Adapter/",
             "Facade\\": "Facade/",
-            "Template\\": "Template/"
+            "Template\\": "Template/",
+            "Iterator\\": "Iterator/"
         }
     }
 }

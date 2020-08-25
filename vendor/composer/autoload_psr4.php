@@ -11,6 +11,7 @@ return array(
     'Singleton\\' => array($baseDir . '/Singleton'),
     'SimpleFactory\\' => array($baseDir . '/SimpleFactory'),
     'Observer\\' => array($baseDir . '/Observer'),
+    'Iterator\\' => array($baseDir . '/Iterator'),
     'Factory\\' => array($baseDir . '/Factory'),
     'Facade\\' => array($baseDir . '/Facade'),
     'Decorator\\' => array($baseDir . '/Decorator'),
