@@ -16,7 +16,8 @@
             "Adapter\\": "Adapter/",
             "Facade\\": "Facade/",
             "Template\\": "Template/",
-            "Iterator\\": "Iterator/"
+            "Iterator\\": "Iterator/",
+            "Composite\\": "Composite/"
         }
     }
 }
