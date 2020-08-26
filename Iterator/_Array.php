@@ -53,6 +53,17 @@ class _Array
         return false;
     }
 
+    public function remove($item)
+    {
+        foreach ($this->data as $key => $datum) {
+            if ($datum === $item) {
+                unset($this->data[$key]);
+                break;
+            }
+        }
+        $this->data = array_values($this->data);
+    }
+
     /**
      * 检查index索引
      * @param $index

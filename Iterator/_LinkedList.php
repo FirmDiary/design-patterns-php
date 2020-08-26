@@ -32,4 +32,10 @@ class _LinkedList
     {
         return $this->head;
     }
+
+    public function setHead(LinkedNodeStructure $head = null)
+    {
+        $this->head = $head;
+    }
+
 }

@@ -8,7 +8,7 @@
 namespace Iterator;
 
 
-class ArrayIterator implements iterator
+class ArrayIterator implements Iterator
 {
     /**
      * @var _Array

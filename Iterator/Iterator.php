@@ -8,7 +8,7 @@
 namespace Iterator;
 
 
-interface iterator
+interface Iterator
 {
     public function getNext();
 

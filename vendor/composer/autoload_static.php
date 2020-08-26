@@ -36,6 +36,7 @@ class ComposerStaticInit9c5b16615fcf2d7b9f1e13c929f963e7
         ),
         'C' => 
         array (
+            'Composite\\' => 10,
             'Command\\' => 8,
         ),
         'A' => 
@@ -81,6 +82,10 @@ class ComposerStaticInit9c5b16615fcf2d7b9f1e13c929f963e7
         'Decorator\\' => 
         array (
             0 => __DIR__ . '/../..' . '/Decorator',
+        ),
+        'Composite\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/Composite',
         ),
         'Command\\' => 
         array (

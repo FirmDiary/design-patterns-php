@@ -15,6 +15,7 @@ return array(
     'Factory\\' => array($baseDir . '/Factory'),
     'Facade\\' => array($baseDir . '/Facade'),
     'Decorator\\' => array($baseDir . '/Decorator'),
+    'Composite\\' => array($baseDir . '/Composite'),
     'Command\\' => array($baseDir . '/Command'),
     'Adapter\\' => array($baseDir . '/Adapter'),
     'AbstractFactory\\' => array($baseDir . '/AbstractFactory'),

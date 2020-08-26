@@ -8,7 +8,7 @@
 namespace Iterator;
 
 
-class LinkedListIterator implements iterator
+class LinkedListIterator implements Iterator
 {
     /**
      * @var _LinkedList
